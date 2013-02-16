@@ -126,4 +126,6 @@ public class Article implements Serializable {
 	public void setMiseAJour(Date miseAJour) {
 		this.miseAJour = miseAJour;
 	}
+	
+	//test commit
 }
